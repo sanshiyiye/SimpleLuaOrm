@@ -1,4 +1,4 @@
-# Lua 4Days ORM 10 minutes tutorial #
+# SimpleLuaOrm 10 minutes tutorial #
 
 ## Database configuration ##
 
