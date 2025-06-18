@@ -1,5 +1,7 @@
 # SimpleLuaOrm 10 minutes tutorial #
 
+**翻译**: [English](README.md) | [中文](README.zh.md)
+
 ## Database configuration ##
 
 Before the beginning you should add some simple settings to your database configuration. You must create some global variable `DB`:
